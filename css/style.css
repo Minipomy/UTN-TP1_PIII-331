@@ -1,0 +1,15 @@
+.logo {
+    width: 100px;
+}
+
+.brand {
+    color:#3b838f;
+}
+
+.brand:hover {
+    text-decoration: underline;
+}
+
+.bg-utn {
+    background-color: #2f6c9c;
+}
