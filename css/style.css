@@ -1,15 +1,42 @@
 .logo {
-    width: 100px;
+    width: 150px;
+    text-align: center;
+
 }
 
 .brand {
     color:#3b838f;
 }
 
+.bg-utn {
+    background-color: #2f6c9c;
+}
+
+i {
+    padding: 10px;
+    font-size: 24px;
+}
+
 .brand:hover {
     text-decoration: underline;
 }
 
-.bg-utn {
-    background-color: #2f6c9c;
+.btn:hover {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+.disabled {
+    text-decoration: line-through 2px;
+    text-decoration-color: red;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    font-weight: 500;
+}
+
+.overflow-hidden {
+    max-height: 45vh;
 }
