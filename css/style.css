@@ -1,7 +1,18 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
 .logo {
     width: 150px;
     text-align: center;
 
+}
+
+ul li a:hover {
+    text-decoration: underline;
+    text-underline-offset: 10px;
 }
 
 .brand {

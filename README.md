@@ -1,4 +1,4 @@
-<img src="assets/utn_logo.svg" width="150">
+<img src="./assets/icons/utn_logo.svg" width="150">
 <br/>
 <br/>
 
@@ -102,3 +102,11 @@ Necesitará construir las siguientes pagínas:
 > Happy coding!
 
 <img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="150">
+
+
+**¿Hay alguna mejora que pueda hacer en su envío?**
+- Podria integrar una AI, para facilitar el proceso en el que los alumnos se anotan, recomendando franjas horarias segun lo deseen.  
+
+**¿Qué haría de manera diferente si se le asignara más tiempo?**
+
+- Si tuviese mas tiempo, podria aprender/utilizar algun framework para poder registrar el sitio por componentes o en caso contrario, no depender de una sola libreria de estilos como bootstrap, tal vez usar tailwind.
