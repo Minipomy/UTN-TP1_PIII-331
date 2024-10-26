@@ -105,8 +105,13 @@ Necesitará construir las siguientes pagínas:
 
 
 **¿Hay alguna mejora que pueda hacer en su envío?**
-- Podria integrar una AI, para facilitar el proceso en el que los alumnos se anotan, recomendando franjas horarias segun lo deseen.  
+ `Podria integrar una AI, para facilitar el proceso en el que los alumnos se anotan, recomendando franjas horarias segun lo deseen.`<br/><br/>  
 
 **¿Qué haría de manera diferente si se le asignara más tiempo?**
 
-- Si tuviese mas tiempo, podria aprender/utilizar algun framework para poder registrar el sitio por componentes o en caso contrario, no depender de una sola libreria de estilos como bootstrap, tal vez usar tailwind.
+ `Si tuviese mas tiempo, podria aprender/utilizar algun framework para poder registrar el sitio por componentes o en caso contrario, no depender de una sola libreria de estilos como bootstrap, tal vez usar tailwind.`<br/><br/>
+
+- En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
+  `Como desarrollador Backend, me es muy complicado adaptarme a las reglas de estilo de CSS, por una cuestion de practicas. No obstante, considero que si bien bootstrap genera mas facilidad, es complicado de utilizar sin conocer previamente las clases.`<br/><br/>
+- En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
+  `De hecho, muchas paginas de hoy en día su viewport se basan en un navbar con links y una seccion "hero" donde expresa la finalidad de la misma`<br/><br/>
